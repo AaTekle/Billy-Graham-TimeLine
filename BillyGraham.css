@@ -8,6 +8,12 @@
     margin: 0 auto;
   }
 
+img:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+
     .center {
         display: block;
         margin-left: auto;
