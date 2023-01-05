@@ -84,5 +84,7 @@ blockquote {
 }
 
 #tribute-link {
-  margin-left: 890px;
+  margin-left: 840px;
+  font-family: monospace;
+  font-size: 27px;
 }
