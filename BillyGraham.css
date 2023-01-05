@@ -28,7 +28,7 @@
     font-weight: bolder;
    }
 
-   #img-caption{
+  #img-caption{
     width: 30%;
     font-style: italic;
     font-size: smaller;
@@ -41,7 +41,7 @@
     margin-top: 15px;
     margin-right: 0px;
     margin-bottom: 5px;
-    margin-left: 0px;
+    margin-left: 620px;
    }
 
    h3{
